@@ -1,7 +1,7 @@
 services:
   hello-world:
     build:
-      context: https://github.com/DbpUffizziTest-TwoStage-Second/hello-world-2
+      context: https://github.com/ALEXANCHESSS/hello-world-2
       dockerfile: Dockerfile.args
       args:
         - IMAGES_PATH=images
